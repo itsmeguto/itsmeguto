@@ -12,7 +12,7 @@ Below are some of the projects I developed over the years to consolidate my data
 Hope you enjoy and feel free to contact me in case of any questions or feedback. :)
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mysql,html,css,notion,aws,flask,mysql,postman,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,shell,regex,github,git,mysql,html,css,notion,aws,flask,mysql,postman,vscode)](https://skillicons.dev)
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=azure,docker)](https://skillicons.dev)
