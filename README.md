@@ -54,4 +54,4 @@ Guto's dynamic musical roots are steeped in the rhythmic pulses of samba and the
 
 You can find me on <a href="https://www.youtube.com/@itsmeguto" download>Youtube</a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=auto&section=footer" alt="footer"/>
