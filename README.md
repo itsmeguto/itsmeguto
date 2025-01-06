@@ -1,8 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=auto&section=header&descAlign=51&descAlignY=25&animation=blinking" alt="header"/>
-
 ### 👋 Hey, I'm Augusto Barbosa!
 I'm a Senior Agile Expert with a strong background in information systems and a passion for empowering teams and individuals!
-
 With over 12 years of experience, I've transitioned from the Support Analyst role to a Scrum Master and Agile Coach roles, helping teams deliver value effectively. I work at adidas, focusing on guiding product teams to achieve their goals and successfully deliver impactful projects and programs.
 
 Other than Senior Agile Expert, I am also performing as a people manager, leading and managing a diverse team to develop team strategies, set objectives, and align with organizational goals by following the adidas people management processes like performance reviews, touchbases, career development, etc.
