@@ -39,8 +39,6 @@ Hope you enjoy and feel free to contact me in case of any questions or feedback.
 > [!IMPORTANT]  
 > <a href="https://drive.google.com/file/d/19TOYozPwM1WNSpDDtUHRtGtWyTDg6QHF/view?usp=drive_link" download>Download my resume</a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
-
 ### 🎧 🔊 Side Project (DJing):
 The DJ alter ego of a 33-year-old Brazilian music lover hailing from São Paulo but now playing the scenes in Porto, where he's been evolving and entertaining for the past four years.
 
@@ -52,20 +50,4 @@ You can find me on Youtube
 
 And this is my latest DJ set released:
 
-
-
-
-<!--
-**itsmeguto/itsmeguto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
