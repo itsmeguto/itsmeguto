@@ -42,8 +42,7 @@ Hope you enjoy and feel free to contact me in case of any questions or feedback.
 -->
 
 ### Employer?
-> [!IMPORTANT]  
-> <a href="https://drive.google.com/file/d/19TOYozPwM1WNSpDDtUHRtGtWyTDg6QHF/view?usp=drive_link" download>Download my resume</a>
+> [!IMPORTANT] > <a href="https://drive.google.com/file/d/19TOYozPwM1WNSpDDtUHRtGtWyTDg6QHF/view?usp=drive_link" download>Download my resume</a>
 
 ### 🎧 🔊 Side Project (DJing):
 The DJ alter ego of a 33-year-old Brazilian music lover hailing from São Paulo but now playing the scenes in Porto, where he's been evolving and entertaining for the past four years.
@@ -52,9 +51,6 @@ Guto's dynamic musical roots are steeped in the rhythmic pulses of samba and the
 
 "It's me, Guto" isn't just a name—it's a statement, a lifestyle, and a celebration of freedom by the power of music.
 
-You can find me on Youtube
-
-And this is my latest DJ set released:
-[![Video Title](https://img.youtube.com/vi/JtsM_0n59o8/0.jpg)](https://www.youtube.com/watch?v=JtsM_0n59o8)
+You can find me on <a href="https://www.youtube.com/@itsmeguto" download>Youtube</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
