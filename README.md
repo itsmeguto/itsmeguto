@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=auto&section=header&descAlign=51&descAlignY=25&animation=blinking" alt="header"/>
+
 ### 👋 Hey, I'm Augusto Barbosa!
 I'm a Senior Agile Expert with a strong background in information systems and a passion for empowering teams and individuals!
 
