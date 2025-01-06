@@ -23,7 +23,7 @@ Hope you enjoy and feel free to contact me in case of any questions or feedback.
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
     </a>
     <a href="https://www.credly.com/users/augusto-cm-barbosa">
-        <img src="https://github.com/user-attachments/assets/6cc0dbde-bca6-43e8-a460-aa67fb449c80" alt="Credly" width="35" height="35"/>
+        <img src="https://github.com/itsmeguto/itsmeguto/blob/main/assets/credly.png" alt="Credly" width="35" height="35"/>
     </a>
     <a href="https://medium.com/@augustocmbarbosa">
         <img src="https://github.com/user-attachments/assets/33da1818-a750-4e4b-a09a-9c8b1c4e9338" alt="Medium" width="35" height="35"/>
