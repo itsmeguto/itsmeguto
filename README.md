@@ -55,5 +55,6 @@ Guto's dynamic musical roots are steeped in the rhythmic pulses of samba and the
 You can find me on Youtube
 
 And this is my latest DJ set released:
+[![Video Title](https://img.youtube.com/vi/JtsM_0n59o8/0.jpg)](https://www.youtube.com/watch?v=JtsM_0n59o8)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
