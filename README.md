@@ -36,7 +36,7 @@ Hope you enjoy and feel free to contact me in case of any questions or feedback.
 
 ### Employer?
 > [!IMPORTANT]
-> > <a href="https://drive.google.com/file/d/19TOYozPwM1WNSpDDtUHRtGtWyTDg6QHF/view?usp=drive_link" download>Download my resume</a>
+> > <a href="https://drive.google.com/file/d/1ZevByq2IBGp5G_wcyKiabaUGBKf-a8Qh/view?usp=drive_link" download>Download my resume</a>
 
 ### 🎧 🔊 Side Project (DJing):
 The DJ alter ego of a 33-year-old Brazilian music lover hailing from São Paulo but now playing the scenes in Porto, where he's been evolving and entertaining for the past four years.
